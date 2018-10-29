@@ -1,0 +1,40 @@
+body {
+  background-color: orange;
+}
+
+#burger {
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.newBurger {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+#burger_list {
+  background-color: white;
+}
+
+#list{
+  border: 5px solid black;
+}
+
+#devouredList{
+  border: 5px solid black;
+}
+
+li{
+ padding: 15px 0px 15px 0px;
+}
+
+.btn-primary{
+ float: right;
+ margin-left: 5px;
+ background-color: orange;
+}
+
+#submit{
+  background-color: green;
+}
